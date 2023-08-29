@@ -2698,6 +2698,34 @@ icons
     border-radius: 17px; */
 }
 
+@media (max-width: 821px) {
+  #recommend .container
+  {
+    margin: 0px !important;
+  }
+  
+  .hero .row:first-child
+  {
+    display: flex;
+      justify-content: center;
+  }
+  .col-lg-6.la
+  {
+    margin: 0px !important;
+  }
+  
+  #recommend .row .col-lg-4
+  {
+    margin: 0px !important;
+  }
+  
+  .imgYTB
+  {
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  }
+
 .card-client3 {
   background:
     linear-gradient(#ffffff 0 0) padding-box;
