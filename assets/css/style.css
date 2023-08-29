@@ -3609,13 +3609,11 @@ icons
 }
 
 .nav-menu li ul li {
-  background-color: #444444;
+  background-color: #000000;
+  
 }
 
 .nav-menu li ul li a {
-  border-left: 1px solid #444444;
-  border-right: 1px solid #444444;
-  border-top: 1px solid #c9d4d8;
   border-bottom: 1px solid #444444;
 }
 
