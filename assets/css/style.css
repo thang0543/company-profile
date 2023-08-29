@@ -1152,7 +1152,7 @@ h6 {
   .logo {
     display: none !important;
   }
-  .recommend > .container{
+  #recommend > .container{
     margin-left: 0px !important;
   }
 }
