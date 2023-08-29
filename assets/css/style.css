@@ -1152,6 +1152,9 @@ h6 {
   .logo {
     display: none !important;
   }
+  .recommend > .container{
+    margin-left: 0px !important;
+  }
 }
 
 @media (max-width: 768px) {
