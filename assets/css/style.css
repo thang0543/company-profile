@@ -1155,6 +1155,9 @@ h6 {
   #recommend > .container{
     margin-left: 0px !important;
   }
+  .imgYTB{
+    margin:  0px !important;
+  }
 }
 
 @media (max-width: 768px) {
