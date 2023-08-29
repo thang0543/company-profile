@@ -2730,7 +2730,7 @@ icons
     linear-gradient(#ffffff 0 0) padding-box;
   /*this is your grey background*/
   width: 16rem;
-  height: 20vh;
+  height: 12vh;
   padding-top: 25px;
   padding-bottom: 25px;
   padding-left: 20px;
@@ -3597,9 +3597,6 @@ icons
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
-
 .nav-menu li ul {
   display: none;
   height: auto;
@@ -3625,3 +3622,4 @@ icons
 .nav-menu li ul li a:hover {
   background-color: #a3a1a1;
 }
+
