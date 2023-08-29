@@ -645,7 +645,6 @@ h6 {
   /* background: #020a20; */
   backdrop-filter: blur(20px) brightness(0.8);
   padding: 30px 0px;
-
 }
 
 
@@ -3597,4 +3596,32 @@ icons
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+
+
+.nav-menu li ul {
+  display: none;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu li:hover ul {
+  display: block;
+}
+
+.nav-menu li ul li {
+  background-color: #444444;
+}
+
+.nav-menu li ul li a {
+  border-left: 1px solid #444444;
+  border-right: 1px solid #444444;
+  border-top: 1px solid #c9d4d8;
+  border-bottom: 1px solid #444444;
+}
+
+.nav-menu li ul li a:hover {
+  background-color: #a3a1a1;
 }
